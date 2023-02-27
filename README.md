@@ -2,6 +2,8 @@
 
 [![workflow](https://github.com/krdprog/hexlet-ci-app/actions/workflows/workflow.yml/badge.svg)](https://github.com/krdprog/hexlet-ci-app/actions/workflows/workflow.yml)
 
+@krdprog
+
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
